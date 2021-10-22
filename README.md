@@ -1,7 +1,10 @@
-# CEP Search :house:
+# Search CEP :house:
+> Projeto criado ao final do curso de JavaScript do [Cataline](https://www.cataline.io/).
 
-Projeto criado ao final do curso de JavaScript do Cataline.io.
+## Informações Importantes:
+> O projeto consiste na criação de um modelo de busca por CEP.
+Para GET usamos o AXIOS e JSON com a API do ViaCep.
 
-## O projeto consiste na criação de um modelo de busca por CEP.
-
-## Para GET usamos o AXIOS e JSON com a API do [ViaCep][viacep.com.br]
+## Links Importantes:
+* [AXIOS](https://www.npmjs.com/package/axios)
+* [VIACEP](https://viacep.com.br/)
