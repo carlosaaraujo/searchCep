@@ -6,7 +6,8 @@
 Para GET usamos o AXIOS e JSON com a API do ViaCep.
 
 ## Testar Projeto
-[SEARCH CEP](https://carlosaaraujo.github.io/searchCep/)
+*É apenas colocar o CEP, você pode usar hífen, ponto, espaço em branco ou não, existe um tratamento para evitar problemas com esses argumentos.*
+* [ACESSAR](https://carlosaaraujo.github.io/searchCep/)
 
 ## Links Importantes:
 * [AXIOS](https://www.npmjs.com/package/axios)
