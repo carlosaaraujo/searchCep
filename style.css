@@ -33,6 +33,7 @@ form input {
     width: 120px;
     outline: none;
     padding: 0;
+    text-align: center;
 }
 
 form input::placeholder {
